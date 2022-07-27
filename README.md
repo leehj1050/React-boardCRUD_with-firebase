@@ -1,1 +1,1 @@
-### React로 만든 게시판 CRUD
+### React로 만든 블로그 CRUD with firebase
